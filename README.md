@@ -90,7 +90,7 @@ We release ours models for streaming inference:
 - **en-es**: [checkpoint](http://nlp.xmu.edu.cn/biaofu/models/FAST/FAST_online_en-es.pt) |[config](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-es/config_wave.yaml)|[sentencepiece.model](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-es/spm_unigram10000_st.model)|[sentencepiece.vocab](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-es/spm_unigram10000_st.vocab)|[sentencepiece.txt](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-es/spm_unigram10000_st.txt)
 - **en-fr**: [checkpoint](http://nlp.xmu.edu.cn/biaofu/models/FAST/FAST_online_en-fr.pt) |[config](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-fr/config_wave.yaml)|[sentencepiece.model](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-fr/spm_unigram10000_st.model)|[sentencepiece.vocab](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-fr/spm_unigram10000_st.vocab)|[sentencepiece.txt](http://nlp.xmu.edu.cn/biaofu/models/FAST/vocab_en-fr/spm_unigram10000_st.txt)
 
-#### Inference
+Streaming Inference
 
 - Vanilla strategy
 
